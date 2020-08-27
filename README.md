@@ -1,4 +1,4 @@
-# Image-Processing-Tasks
+# Image Processing Tasks
 
 ## Task 1
 
