@@ -12,7 +12,7 @@ Implements both nearest neighbour and bilinear interpolation.
 ## Task 2
 
 ### Neighbourhood Processing 
-Loads the image ‘Noisy.png' and convert it to greyscale. Then implements smoothing filters using averaging and median filters with
+Loads the image ‘Noisy.png' and converts it to greyscale. Then implements smoothing filters using averaging and median filters with
 a kernel (mask) size of 5 (neighbourhood of 5×5). Using zero padding to deal with pixels on the edges of the image.
 
 
